@@ -8,7 +8,7 @@ Um jogo da velha (Tic-Tac-Toe) simples e jogável no navegador, criado usando HT
 
 ## 🚀 Demonstração
 
-Você pode ver a aplicação em funcionamento [aqui](https://digonexs.github.io/simple-tic-tac-toe).
+Você pode ver a aplicação em funcionamento [aqui](https://digonexs.github.io/simple-tic-tac-toe/).
 
 ## 📋 Funcionalidades
 
